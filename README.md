@@ -3,7 +3,7 @@
 Adı çəkilən fənnlərin adlarının tərcüməsi bu sənəddə toplanmışdır. Hər-hansı əlavələr etmək üçün PR (pull request) aça bilərsiniz). Bu səhifənin məqsədi diplom əlavəsinin tərcüməsi zamanı anlaşılmazlıqların və xətaların minimallaşdırılmasıdır. Xaricdə təhsil almaq istəyənlər üçün faydası olması ümidi ilə.
 
 ## İnformatika ixtisası üzrə
-Bakı Dövlət Universiteti, 2009-cu il buraxılışı.
+Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 
 |Azərbaycanca|İngiliscə|
 |-|-|
@@ -62,4 +62,32 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı.
 |Obrazların tanınması|Pattern recognition|
 |Buraxılış Yekun Dövlət İmtahanı|State Exit examination|
 |Buraxılış işi|Graduation Project|
+
+
+## Kompüter təhlükəsizliyi ixtisası üzrə
+Azərbaycan Respublikasının Prezidenti yanında Dövlət İdarəçilik Akademiyası, 2014-cü il buraxılışı, Magistratura pilləsi.
+
+|Azərbaycanca|İngiliscə|
+|-|-|
+|Xarici dil|Foreign language (English)|
+|Psixologiya|Psychology|
+|Ali məktəb pedaqogikası|The Pedagogy of Higher Education|
+|İnformasiya təhlükəsizliyinin əsasları|Fundamentals of Information security|
+|Kompüter şəbəkələrinin təhlükəsizliyi|Computer network security|
+|İdarəetmədə modelləşdirmə|Control System Modeling|
+|Əməliyyatlar sisteminin təhlükəsizliyi|Operating Systems Security|
+|İntelektual informasiya sistemləri və interaktiv sistem texnologiyaları|Intelligent Information Systems and Technologies of Interactive Systems|
+|Kompüter mühəndisliyinin müasir problemləri|Contemporary Issues in Computer Engineering|
+|Kompüter mühəndisliyinin tarixi və metodologiyası|History and Methodology of Computer Engineering|
+|İdarəetmədə informasiya sistemləri|Information Systems in Management|
+|Davamlı insan inkişafı|Sustainable development|
+|İctimai elmlərdə akademik yazı|Academic Writing in the Social Sciences|
+|Verilənlər bazasının təhlükəsizliyi|Database security|
+|WEB Proqramlaşdırma|Web programming|
+|Avtomatlaşdırılmış layihələndirmə sistemləri|Automated project management systems|
+|İnformasiya təhlükəsizliyinin idarəedilməsi|Information security management|
+|Hesablama şəbəkələrinin təhlükəsizliyi|Computational Networks Security|
+|Elmi pedaqoji təcrübə|Scientific-pedagogical practice|
+|Elmi tədqiqat təcrübəsi|Scientific-research practice|
+|Dissertasiya müdafiəsi|Thesis Defense|
 
