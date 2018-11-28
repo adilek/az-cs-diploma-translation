@@ -1,6 +1,6 @@
 # İnformatika, Kompüter Elmləri, Kompüter Mühəndisliyi, Riyaziyyat və bu zəmindən olan ixtisasların tərcüməsi
 
-Adı çəkilən fənnlərin adlarının tərcüməsi bu sənəddə toplanmışdır. Hər-hansı əlavələr etmək üçün PR (pull request) aça bilərsiniz). Bu səhifənin məqsədi diplom əlavəsinin tərcüməsi zamanı anlaşılmazlıqların və xətaların minimallaşdırılmasıdır. Xaricdə təhsil almaq istəyənlər üçün faydası olması ümidi ilə.
+Adı çəkilən fənlərin adlarının tərcüməsi bu sənəddə toplanmışdır. Hər hansı əlavələr etmək üçün PR (pull request) aça bilərsiniz. Bu səhifənin məqsədi diplom əlavəsinin tərcüməsi zamanı anlaşılmazlıqların və xətaların minimallaşdırılmasıdır. Xaricdə təhsil almaq istəyənlər üçün faydası olması ümidi ilə.
 
 ## İnformatika ixtisası üzrə
 Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
