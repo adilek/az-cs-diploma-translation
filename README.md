@@ -82,7 +82,7 @@ Azərbaycan Respublikasının Prezidenti yanında Dövlət İdarəçilik Akademi
 |İdarəetmədə modelləşdirmə|Control System Modeling|
 |İnformasiya təhlükəsizliyinin əsasları|Fundamentals of Information security|
 |İnformasiya təhlükəsizliyinin idarəedilməsi|Information security management|
-|İntelektual informasiya sistemləri və interaktiv sistem texnologiyaları|Intelligent Information Systems and Technologies of Interactive Systems|
+|İntellektual informasiya sistemləri və interaktiv sistem texnologiyaları|Intelligent Information Systems and Technologies of Interactive Systems|
 |Kompüter mühəndisliyinin müasir problemləri|Contemporary Issues in Computer Engineering|
 |Kompüter mühəndisliyinin tarixi və metodologiyası|History and Methodology of Computer Engineering|
 |Kompüter şəbəkələrinin təhlükəsizliyi|Computer network security|
