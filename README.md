@@ -10,7 +10,7 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 |Alqoritmlər nəzəriyyəsi|Theory of computation(algorithms)|
 |Bədən tərbiyəsi|Physical education|
 |Buraxılış işi|Graduation Project|
-|Buraxılış Yekun Dövlət İmtahanı|State Exit examination|
+|Buraxılış Yekun Dövlət İmtahanı| Final Graduation State examination|
 |Diferensial tənliklər|Differential Equations|
 |Diskret riyaziyyat|Discrete mathematics|
 |Diskret optimallaşdırma|Discrete optimization|
@@ -34,7 +34,7 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 |İnformasiyanın məxfiliyi və təhlükəsizliyi|İnformation privacy and security|
 |İnformatika|Informatics (1)|
 |İnformatika|Informatics (2)|
-|Kodlaşdırma nəzəriyyəsi və sonlu alqoritmlər|Coding theory and finite algorithms|
+|Kodlaşdırma nəzəriyyəsi və sonlu avtomatlar|Coding theory and finite state machines|
 |Kompüter arxitekturası və əməliyyatlar sistemi|Computer Architecture and Operating Systems|
 |Kompüter qrafikası|Computer graphics|
 |Kompüter şəbəkələri və şəbəkə əməliyyatlar sistemi|Computer networks and network operating systems|
