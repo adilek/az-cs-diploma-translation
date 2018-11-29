@@ -10,7 +10,7 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 |Alqoritmlər nəzəriyyəsi|Theory of computation(algorithms)|
 |Bədən tərbiyəsi|Physical education|
 |Buraxılış işi|Graduation Project|
-|Buraxılış Yekun Dövlət İmtahanı|State Exit examination|
+|Buraxılış Yekun Dövlət İmtahanı|Final Graduation State|
 |Diferensial tənliklər|Differential Equations|
 |Diskret riyaziyyat|Discrete mathematics|
 |Diskret optimallaşdırma|Discrete optimization|
@@ -34,7 +34,8 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 |İnformasiyanın məxfiliyi və təhlükəsizliyi|İnformation privacy and security|
 |İnformatika|Informatics (1)|
 |İnformatika|Informatics (2)|
-|Kodlaşdırma nəzəriyyəsi və sonlu alqoritmlər|Coding theory and finite algorithms|
+|* Kodlaşdırma nəzəriyyəsi və sonlu alqoritmlər|Coding theory and finite algorithms|
+|Kodlaşdırma nəzəriyyəsi və sonlu avtomatlar|Coding theory and finite state machines|
 |Kompüter arxitekturası və əməliyyatlar sistemi|Computer Architecture and Operating Systems|
 |Kompüter qrafikası|Computer graphics|
 |Kompüter şəbəkələri və şəbəkə əməliyyatlar sistemi|Computer networks and network operating systems|
@@ -62,6 +63,9 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 |Translyasiya üsulları|Translation techniques (Compilers)|
 |Verilənlər bazası|Database systems|
 |Verilənlərin paralel işlənməsi|Parallel computing|
+
+Qeydlər:
+* *`Sonlu avtomat` daha düzgündür, lakin nədənsə 2009-cu ildə BDU-da `sonlu alqoritmlər` yazılmışdır. Ona görə yaxşı olar ki, `sonlu avtomatlar` olaraq tərcümə olunsun.
 
 ## Kompüter təhlükəsizliyi ixtisası üzrə
 Azərbaycan Respublikasının Prezidenti yanında Dövlət İdarəçilik Akademiyası, 2014-cü il buraxılışı, Magistratura pilləsi.
