@@ -10,7 +10,7 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 |Alqoritmlər nəzəriyyəsi|Theory of computation(algorithms)|
 |Bədən tərbiyəsi|Physical education|
 |Buraxılış işi|Graduation Project|
-|Buraxılış Yekun Dövlət İmtahanı|Final Graduation State|
+|Buraxılış Yekun Dövlət İmtahanı|Final Graduation State examination|
 |Diferensial tənliklər|Differential Equations|
 |Diskret riyaziyyat|Discrete mathematics|
 |Diskret optimallaşdırma|Discrete optimization|
