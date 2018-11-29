@@ -66,6 +66,7 @@ Qeydlər:
 * *`Sonlu avtomat` daha düzgündür, lakin nədənsə 2009-cu ildə BDU-da `sonlu alqoritmlər` yazılmışdır. Ona görə yaxşı olar ki, `sonlu avtomatlar` olaraq tərcümə olunsun.
 ## Kompüter təhlükəsizliyi ixtisası üzrə
 Azərbaycan Respublikasının Prezidenti yanında Dövlət İdarəçilik Akademiyası, 2014-cü il buraxılışı, Magistratura pilləsi.
+
 |Azərbaycanca|İngiliscə|
 |-|-|
 |Ali məktəb pedaqogikası|The Pedagogy of Higher Education|
