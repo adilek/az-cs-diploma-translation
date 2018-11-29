@@ -7,69 +7,65 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 
 |Azərbaycanca|İngiliscə|
 |-|-|
-|Alqoritmlər nəzəriyyəsi|Theory of computation(algorithms)|
-|Bədən tərbiyəsi|Physical education|
+|Alqoritmlər nəzəriyyəsi|Theory of Computation (algorithms)|
+|Bədən tərbiyəsi|Physical Education|
 |Buraxılış işi|Graduation Project|
-|Buraxılış Yekun Dövlət İmtahanı|Final Graduation State examination|
+|Buraxılış Yekun Dövlət İmtahanı|State Exit Examination|
 |Diferensial tənliklər|Differential Equations|
-|Diskret riyaziyyat|Discrete mathematics|
-|Diskret optimallaşdırma|Discrete optimization|
+|Diskret riyaziyyat|Discrete Mathematics|
+|Diskret optimallaşdırma|Discrete Optimization|
 |EHM-də praktikum|Practice on ECM|
 |Ehtimal nəzəriyyəsi və riyazi statistika|Probability Theory and Mathematical Statistics|
-|Ədədi üsullar|Numerical analysis (1)|
-|Ədədi üsullar|Numerical analysis (2)|
-|Əməliyyatlar tədqiqi və oyunlar nəzəriyyəsi|Operations research and Game theory|
+|Ədədi üsullar|Numerical analysis|
+|Əməliyyatlar tədqiqi və oyunlar nəzəriyyəsi|Operations Research and Game theory|
 |Fəlsəfə|Philosophy|
 |Fizika|Physics|
 |Hesablama praktikası|Computational practice (Internship)|
 |Hesablama praktikası|Computational practice (Internship)|
 |Həndəsə və cəbr|Geometry and Algebra (1)|
 |Həndəsə və cəbr|Geometry and Algebra (2)|
-|Hüququn əsasları və Azərbaycan Respublikasının konstitusiyası|Basic law and Constitution of Azerbaijan|
-|Xarici dil|Foreign language (English)|
-|Xüsusi törəməli diferensial tənliklərin həll alqoritmləri|Partial differential equation|
-|İdarəetmə sistemləri|Control system|
+|Hüququn əsasları və Azərbaycan Respublikasının konstitusiyası|The Fundamentals of Law and the Constitution of Azerbaijan|
+|Xarici dil|Foreign Language (English)|
+|Xüsusi törəməli diferensial tənliklərin həll alqoritmləri|Partial Differential Equation|
+|İdarəetmə sistemləri|Control Systems|
 |İqtisadiyyat|Economics|
-|İnformasiyanın işlənməsinin paylanmış sistemləri|Distributed computing for information processing|
-|İnformasiyanın məxfiliyi və təhlükəsizliyi|İnformation privacy and security|
+|İnformasiyanın işlənməsinin paylanmış sistemləri|Distributed Computing for Information Processing|
+|İnformasiyanın məxfiliyi və təhlükəsizliyi|Information Privacy and Security|
 |İnformatika|Informatics (1)|
 |İnformatika|Informatics (2)|
-|* Kodlaşdırma nəzəriyyəsi və sonlu alqoritmlər|Coding theory and finite algorithms|
-|Kodlaşdırma nəzəriyyəsi və sonlu avtomatlar|Coding theory and finite state machines|
+|Kodlaşdırma nəzəriyyəsi və sonlu alqoritmlər|Coding Theory and Finite Algorithms|
 |Kompüter arxitekturası və əməliyyatlar sistemi|Computer Architecture and Operating Systems|
-|Kompüter qrafikası|Computer graphics|
-|Kompüter şəbəkələri və şəbəkə əməliyyatlar sistemi|Computer networks and network operating systems|
-|Qraflar nəzəriyyəsi|Graph theory|
+|Kompüter qrafikası|Computer Graphics|
+|Kompüter şəbəkələri və şəbəkə əməliyyatlar sistemi|Computer Networks and Network Operating Systems|
+|Qraflar nəzəriyyəsi|Graph Theory|
 |Mədəniyyətşünaslıq|Culturology|
-|Müasir proqramlaşdırma dilləri|Modern programming languages|
-|Obrazların tanınması|Pattern recognition|
-|Optimallaşdırma üsulları|Mathematical optimization|
+|Müasir proqramlaşdırma dilləri|Modern Programming Languages|
+|Obrazların tanınması|Pattern Recognition|
+|Optimallaşdırma üsulları|Mathematical Optimization|
 |Pedaqogika|Pedagogy|
-|Proqramlaşdırma texnologiyası|Programming technology|
+|Proqramlaşdırma texnologiyası|Programming Technology|
 |Psixologiya|Psychology|
 |Riyazi analiz|Calculus (1)|
 |Riyazi analiz|Calculus (2)|
 |Riyazi analiz|Calculus (3)|
 |Riyazi fizika tənlikləri|Equations of Mathematical Physics|
-|Riyazi məntiq|Mathematical logic|
-|Riyazi modelləşdirmə|Mathematical model|
-|Riyaziyyatın və informatikanın tədrisi üsulları|Teaching methods of mathematics and informatics|
-|Rus dili|Russian language|
-|Sistem və tətbiqi proqram təminatı|System and Application software|
-|Sosiologiya və politologiya|Sociology and Political science|
-|Süni intellekt və ekspert sistemləri|Artificial intelligence and Expert system|
+|Riyazi məntiq|Mathematical Logic|
+|Riyazi modelləşdirmə|Mathematical Modelling|
+|Riyaziyyatın və informatikanın tədrisi üsulları|Teaching Methods of Mathematics and Informatics|
+|Rus dili|Russian Language|
+|Sistem və tətbiqi proqram təminatı|System and Application Software|
+|Sosiologiya və politologiya|Sociology and Political Science|
+|Süni intellekt və ekspert sistemləri|Artificial Intelligence and Expert System|
 |Tarix|History|
-|Tibbi biliklərin əsasları və mülki müdafiə|Fundamental Medicine and Civil defense|
-|Translyasiya üsulları|Translation techniques (Compilers)|
-|Verilənlər bazası|Database systems|
-|Verilənlərin paralel işlənməsi|Parallel computing|
+|Tibbi biliklərin əsasları və mülki müdafiə|Fundamental Medicine and Civil Defense|
+|Translyasiya üsulları|Translation Techniques (Compilers)|
+|Verilənlər bazası|Database Systems|
+|Verilənlərin paralel işlənməsi|Parallel Computing|
 
 Qeydlər:
 * *`Sonlu avtomat` daha düzgündür, lakin nədənsə 2009-cu ildə BDU-da `sonlu alqoritmlər` yazılmışdır. Ona görə yaxşı olar ki, `sonlu avtomatlar` olaraq tərcümə olunsun.
-
 ## Kompüter təhlükəsizliyi ixtisası üzrə
 Azərbaycan Respublikasının Prezidenti yanında Dövlət İdarəçilik Akademiyası, 2014-cü il buraxılışı, Magistratura pilləsi.
-
 |Azərbaycanca|İngiliscə|
 |-|-|
 |Ali məktəb pedaqogikası|The Pedagogy of Higher Education|
