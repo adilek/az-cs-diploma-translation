@@ -62,6 +62,29 @@ Bakı Dövlət Universiteti, 2009-cu il buraxılışı, Bakalavr pilləsi.
 |Verilənlər bazası|Database Systems|
 |Verilənlərin paralel işlənməsi|Parallel Computing|
 
+Bakı Dövlət Universiteti, 2016-cı il buraxılışı, Bakalavr pilləsi.
+
+|Azərbaycanca|İngiliscə|
+|-|-|
+|Alqoritmik dillər|Algorithmic languages|
+|Alqoritmin təhlili və qurulması üsulları|Design and Analysis of Algorithms|
+|Analiz və cəbrin ədədi üsulları|Numerical Methods of Mathematical Analysis and Algebra|
+|Asimptotik metodlar|Asymptotic Methods|
+|Diferensial operatorların spektral nəzəriyyəsi və onun ədədi üsulları|Spectral Theory of Differential operators and its Numerical Methods|
+|Diferensial və inteqral tənliklərin təqribi həll üsulları|Approximate Methods for Solution of Differential and Integral Equations|
+|Diskret sistemlər|Discrete Systems|
+|Funksional analiz|Functional Analysis|
+|Həqiqi dəyişənli funksiyalar nəzəriyyəsi|Theory of Functions of a Real Variable|
+|İnformasiya sistemləri|Information Systems|
+|İqtisadiyyatda riyazi modellər|Mathematical Modelling in Economics|
+|İstehsalat təcrübəsi|Internship|
+|Kompleks dəyişənli funksiyalar nəzəriyyəsi|Theory of Functions of a Complex Variable|
+|Tədris təcrübəsi|Training practice|
+|Tətbiqi statistika|Applied Statistics|
+|Ümumi fizika|General Physics|
+
+
+
 Qeydlər:
 * *`Sonlu avtomat` daha düzgündür, lakin nədənsə 2009-cu ildə BDU-da `sonlu alqoritmlər` yazılmışdır. Ona görə yaxşı olar ki, `sonlu avtomatlar` olaraq tərcümə olunsun.
 ## Kompüter təhlükəsizliyi ixtisası üzrə
